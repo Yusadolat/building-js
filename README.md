@@ -1,3 +1,3 @@
 # Nodejs Powered  Dashboard Example
 
-## Checking out Babel 0.1
+## Building Product with Javascript
