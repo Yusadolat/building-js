@@ -3,6 +3,6 @@
 
 
 
-> A Node app built with MongoDB and React.
+> A Node Simple TODO app built with MongoDB and React.
 
 
