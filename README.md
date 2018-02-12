@@ -1,4 +1,8 @@
 # Nodejs Playing Ground
-## Building Product with Javascript
+## Simple Todo App
 
-> This is just a sample app for someone who want get his/her dirty with Nodejs 
+
+
+> A Node app built with MongoDB and React.
+
+
